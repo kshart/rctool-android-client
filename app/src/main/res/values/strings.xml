@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RC Tool</string>
+    <string name="action_connection">Соединение</string>
+    <string name="select_device">Выберите устройство</string>
+</resources>
